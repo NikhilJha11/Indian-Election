@@ -2,6 +2,8 @@
 
 Welcome to the Election Commission Data Analysis project repository! This project focuses on cleaning, processing, and analyzing data from the 2014 and 2019 Indian Election Commission datasets. Using Python, DAX commands, and Power BI, we have created insightful reports and visualizations to understand electoral trends and patterns.
 
+Analytical report Available in Pdf and PowerBI format
+
 ## Project Overview
 
 ### Data Sources
@@ -54,18 +56,7 @@ We welcome contributions and collaborations on the following:
 - Enhancing Power BI reports with additional visualizations and insights.
 - Developing predictive models for future election outcomes.
 
-## Get Started
 
-1. Clone the repository to your local machine.
-2. Explore the datasets in the `Processed Data` folder.
-3. Open Power BI and load the provided `.pbix` files to interact with the reports.
-4. Check out the `Documentation` folder for detailed information on methodologies and findings.
-
-## Feedback
-
-Your feedback and suggestions are valuable to us. Feel free to open an issue or reach out via email for any queries or ideas for improvement.
-
-## License
 
 This project is licensed under the [MIT License](LICENSE).
 
